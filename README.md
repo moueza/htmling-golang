@@ -21,3 +21,4 @@ mkdir hello # Alternatively, clone it if it already exists in version control.
 go: creating new go.mod: module example.com/user/hello
   cat go.mod
  
+~/go/bin/hello
